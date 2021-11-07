@@ -1,0 +1,12 @@
+.hotels-page{
+    padding: 80px 0;
+}
+.banner-content{
+    align-items: center;
+}
+
+@media (max-width: 575.98px){
+.hotels-page{
+    padding: 10px 0;
+}
+}
