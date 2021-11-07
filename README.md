@@ -2,7 +2,7 @@
 
 ## Best Wasy to find Travel Packages
 
-Live website link here : [Live link](https://tourisom-97673.web.app/)
+Live website link here : [Live Site link](https://tourisom-97673.web.app/)
 
 ##log in as Admin
 
